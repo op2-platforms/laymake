@@ -4,4 +4,4 @@ Set of AutoCAD commands to create NCS layers base on some standard preset and us
 
 is part of the lsp-ncs-layers repository
 
-NOTE: This code was created with "VsCode Snippets"; there fore it should be edited with "Visual Studio Code"
+NOTE: This code was created with "VsCode Snippets". Therefore, it should be edited with "Visual Studio Code"
