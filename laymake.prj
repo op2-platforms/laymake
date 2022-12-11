@@ -3,7 +3,7 @@
     :NAME
     laymake
     :OWN-LIST
-    ("1-cmd" "2-iniget" "3-dd" "4-ma" "5-m1" "6-m2" "7-ph" "laymake")
+    ("cmd" "input" "designator" "major" "minor1" "minor2" "phase" "laymake")
     :FAS-DIRECTORY
     nil
     :TMP-DIRECTORY
